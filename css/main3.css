@@ -1,0 +1,20 @@
+.width{
+    width: 100px;
+    border-radius: 25px;
+}
+.width-1{
+    width: 100px;
+    border-radius: 25px;
+    background-color: rgb(251, 180, 105);
+}
+.col-1{
+    width: 10px !important;
+    height: 20px;
+    background-color: #0b2e13;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+.con-width{
+    width: 1400px;
+    background-color: #5a6268;
+}
